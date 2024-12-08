@@ -1,6 +1,6 @@
 # Kitabi_Kida
 
-Kitabi_Kida is an advanced e-commerce application designed for an online bookstore. Built using .NET and Angular 18, this platform leverages SQL Server as the backend database. The application allows users to browse, purchase, and manage books online, offering an intuitive, secure, and seamless user experience.
+Kitabi_Kida is an advanced e-commerce application designed for an online bookstore. Built using .NET and Angular, this platform leverages SQL Server as the backend database. The application allows users to browse, purchase, and manage books online, offering an intuitive, secure, and seamless user experience.
 
 ## Development Approach
 
